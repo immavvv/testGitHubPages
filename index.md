@@ -14,4 +14,6 @@ Este es un ejemplo de una página web generada a partir de un archivo Markdown. 
 * Añade tus redes sociales o enlaces importantes.
 * Sube los cambios a tu repositorio de GitHub para actualizarlos en vivo.
 
-[Ir a mi GitHub](https://github.com)
+[Ir a mi GitHub](https://immavvv.github.com)
+
+[Ir a la página de Contacto](contacto.md)
